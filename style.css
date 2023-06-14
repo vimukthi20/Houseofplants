@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+@media screen{
+body p {
+    background-color: #2EEA89;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #AD980D;
+}
+.container footer center {
+    background-color: #C66264;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.dropdown {
+    background-color: #0F0D0D;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    background-color: #B84F51;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    background-color: #208A21;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #715859;
+}
+
+
+
+
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    background-color: #B03D3F;
+}
+
+
+
+}
+
+body{
+	background-color: aqua
+}
